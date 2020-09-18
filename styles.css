@@ -151,7 +151,7 @@ nav {
 /*ABOUT*/
 .content-container.about {
   padding-bottom: 100px;
-  width: 100vw;
+  min-width: 90vw;
 }
 
 .about-textbox {
@@ -166,7 +166,7 @@ nav {
 /*GALLERY*/
 .content-container.gallery {
   padding-bottom: 100px;
-  width: 100vw;
+  min-width: 90vw;
 }
 
 p.photos {
@@ -197,7 +197,7 @@ img {
 /*CONTACT*/
 .content-container.contact {
   padding-bottom: 100px;
-  width: 100vw;
+  min-width: 90vw;
 }
 
 p.contact {
