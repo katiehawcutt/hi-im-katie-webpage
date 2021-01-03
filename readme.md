@@ -1,5 +1,7 @@
 # Hi, I'm Katie webpage
 
+[View it here](https://hi-im-katie.netlify.app/)
+
 ![Homepage screenshot](./Assets/Images/homepage-screenshot.PNG)
 ![Gallery screenshot](./Assets/Images/gallery-screenshot.PNG)
 
